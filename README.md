@@ -27,10 +27,14 @@
 - Email: ifernandez@ieshlanz.es
 - Github: https://github.com/isaiasfl
 
-## 4. Enlace QR
+## Información General del Centro
+
+El centro establece a través del PLAN DE CONVIVENCIA una serie de normas que puedes ver en [este enlace](./DOC/info.md) o descargar a través de este [enlace de descarga](./DOC/info.pdf). Su cumplimiento es obligatorio por todo el alumnado que asista a este centro.
+
+## 5. Enlace QR
 
 <div style="text-align: center;">
   <img src="./IMG/QR.png" alt="QR" style="width: 40%;"/>
 </div>
 
-<hr>
+---
