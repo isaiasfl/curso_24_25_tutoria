@@ -27,9 +27,9 @@
 - Email: ifernandez@ieshlanz.es
 - Github: https://github.com/isaiasfl
 
-## Información General del Centro
+## 4. Normas para el alumnado
 
-El centro establece a través del PLAN DE CONVIVENCIA una serie de normas que puedes ver en [este enlace](./DOC/info.md) o descargar a través de este [enlace de descarga](./DOC/info.pdf). Su cumplimiento es obligatorio por todo el alumnado que asista a este centro.
+El centro establece a través del PLAN DE CONVIVENCIA una serie de normas que puedes ver en [este enlace](./DOC/info.md) o descargar a través de este otro [enlace de descarga en pdf](./DOC/info.pdf). Su cumplimiento es obligatorio por todo el alumnado que asista a este centro.
 
 ## 5. Enlace QR
 
